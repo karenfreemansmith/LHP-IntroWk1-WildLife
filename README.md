@@ -2,8 +2,8 @@
 
 #### _Second Webpage for Epicodus_
 
+#### By _Karen Freeman-Smith, Christopher Carter_
+
 ## Description
 
-This is a webpage to practice basic HTML tags.
-By Karen Freeman-Smith
-Contributions by Christopher Carter
+This is a webpage to practice basic HTML tags, branching, merging, and team contributions.
