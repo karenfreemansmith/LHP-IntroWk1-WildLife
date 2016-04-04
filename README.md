@@ -21,7 +21,7 @@ For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 * Add more photos - actual photos instead of googled images
 
 ### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
+###### HTML, CSS, Bootstrap
 
 ### Legal
 *Licensed under the GNU General Public License v3.0*
