@@ -7,6 +7,10 @@
   border-radius: 100px;
 }
 
+.row {
+  padding-top: 20px;
+}
+
 .tilt{
   -webkit-transform: rotate(-20deg);
   -ms-transform: rotate(-20deg);
@@ -41,8 +45,8 @@
   transition-timing-function: ease-in-out;
 }
 
-/*
-.flip:hover{
+
+.rotate:hover{
   -webkit-transform: rotateY(360deg);
   -ms-transform: rotateY(360deg);
   transform: rotateY(360deg);
@@ -54,4 +58,3 @@
   transition: transform 3s;
   transition-timing-function: ease-in-out;
 }
-*/
