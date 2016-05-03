@@ -3,7 +3,7 @@
 
 __Version 2: March 28, 2016__
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io), [Christopher Carter](http://christophercarter777.github.io)
+## by [Karen Freeman-Smith](http://karenfreemansmith.github.io), [Christopher Carter](http://chriscarter777.github.io)
 
 ### Description
 __*Website about our home, family, and pets*__
