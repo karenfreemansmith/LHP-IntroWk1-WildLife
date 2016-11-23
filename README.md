@@ -11,7 +11,7 @@ HTML, CSS, Bootstrap, Git, Github
 [Learn How to Program](http://learnhowtoprogram.com) Intro to Programming Week 1 Pair Project with Christopher Carter: Build a pet website to learn fundamentals of HTML and CSS. * Version 0.0.2 - Work with contributor to learn about teamwork on Github.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk1-WildLife)
 
  __OR__
 * Clone project to your computer
