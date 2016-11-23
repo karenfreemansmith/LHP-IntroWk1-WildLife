@@ -1,22 +1,20 @@
-# :dolls: [Our Wild Life](http://karenfreemansmith.github.io/wildlife) :family:
-![project screenshot](/img/screenshot.jpg)
+# Pet Website (Backyard Wildlife)
+Version 0.0.2: March 28, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Christopher Carter](http://chriscarter777.github.io)
 
-__Version 2: March 28, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, Git, Github
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io), [Christopher Carter](http://chriscarter777.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Website about our home, family, and pets*__
-
-Basic website, shared to practice working as part of team on GitHub.
-
-## Technologies Used
-HTML, CSS
+## Description
+[Learn How to Program](http://learnhowtoprogram.com) Intro to Programming Week 1 Pair Project with Christopher Carter: Build a pet website to learn fundamentals of HTML and CSS. * Version 0.0.2 - Work with contributor to learn about teamwork on Github.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
-* _OR_
-* Clone diectory 
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-PetWebsite)
+
+ __OR__
+* Clone project to your computer
 * Open index.html in your favorite browser
 
 ## Support & Contact
@@ -26,6 +24,6 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 * None
 
 ## Legal
-*Licensed under the GNU General Public License v3.0*
+* Licensed under the GNU General Public License v3.0
 
-Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io) & [Christopher Carter](http://chriscarter777.github.io)_ All Rights Reserved.
